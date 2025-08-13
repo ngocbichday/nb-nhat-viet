@@ -162,7 +162,7 @@ Chỉnh sửa CSS variables trong `styles.css`:
 
 Nếu cần hỗ trợ hoặc có câu hỏi, vui lòng liên hệ:
 - Email: info@nbnhatviet.com
-- Điện thoại: +84 24 1234 5678
+- Điện thoại: 0982541969
 - Địa chỉ: Số 55 Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam
 
 ## License
